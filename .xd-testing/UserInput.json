@@ -45,6 +45,16 @@
           "expectedResults": "",
           "expectedResultsFileName": "MusicalPerformance/MusicalPerformanceFragment/expectedResults/CQ-ExpectedResults.json",
           "id": "CQ002"
+        },
+        {
+          "type": "ERROR_PROVOCATION",
+          "content": "",
+          "reasoner": "hermiT 1.4.3.456",
+          "status": "running",
+          "data": "",
+          "dataFileName": "MusicalPerformance/MusicalPerformanceFragment/datasets/DatasetEP_20230418180644478.ttl",
+          "expectedResults": "",
+          "id": "EP002"
         }
       ]
     }
